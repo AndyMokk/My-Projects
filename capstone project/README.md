@@ -1,5 +1,5 @@
 # Sudoku Solver and Generator with Multiple Algorithms
-
+**Latest Updated on 28/09/2024**
 This repository contains a Sudoku solver and generator project written in Python. The codebase explores multiple algorithms—both traditional and AI-inspired—for generating and solving Sudoku puzzles of varying sizes (4×4, 9×9, 16×16). It also provides a GUI for interactive usage.
 
 ## Overview
@@ -72,5 +72,18 @@ This repository contains a Sudoku solver and generator project written in Python
 
 - **Puzzle generation** for larger sizes (9×9, 16×16) can be slow, especially if you’re ensuring unique solutions at higher difficulties. This is normal for Sudoku generation, which can require solving many times behind the scenes.
 - **Comparison** uses the `multiprocessing` library to parallelize puzzle generation and solving. If you experience issues on Windows, ensure you’re calling it in a `if __name__ == "__main__":` guard.
+
+
+## Latest Updates
+
+- **Excluded Genetic Programming from Comparisons**:  
+  Due to the **extremely slow** performance of the Genetic Programming algorithm, it has been **excluded** from the algorithm comparison feature. This decision ensures that performance metrics remain timely and meaningful.
+
+- **Future Enhancements**:
+  - **Enhance `GUI.py`**: Plans are underway to improve the graphical user interface for a better user experience. This includes more intuitive controls, enhanced visualization of solving steps, and additional features like puzzle saving/loading.
+  - **Optimize Puzzle Generation**: Working on optimizing the puzzle generation process to reduce the time taken, especially for larger grid sizes and higher difficulty levels.
+  - **Implement Missing Algorithms**: Finalizing the implementation of all solver algorithms to ensure they function correctly and efficiently.
+  - **Expand Comparison Functionality**: Enhancing the `compare_algorithms` function to include more detailed statistics, graphical representations of performance metrics, and support for additional algorithms in the future.
+
 
 
