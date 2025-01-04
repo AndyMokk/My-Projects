@@ -1,7 +1,3 @@
-Below is a sample **README.md** that you can include in your GitHub repository. It explains the project’s purpose, how it’s structured, and how to run and use the files. Feel free to customize any part of this document to fit your needs.
-
----
-
 # Sudoku Solver and Generator with Multiple Algorithms
 
 This repository contains a Sudoku solver and generator project written in Python. The codebase explores multiple algorithms—both traditional and AI-inspired—for generating and solving Sudoku puzzles of varying sizes (4×4, 9×9, 16×16). It also provides a GUI for interactive usage.
