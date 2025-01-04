@@ -24,7 +24,7 @@ This repository contains a Sudoku solver and generator project written in Python
      - **Constraint Programming** (using the `python-constraint` library)  
      - **Genetic Algorithm**  
      - **Custom CSP** (human-like strategies)  
-     - **Merge** (hybrid approach for puzzle generation/solving)
+     - **Merge** (hybrid approach for puzzle solving)
 
 4. **`GUI.py`**  
    - A Tkinter-based graphical user interface for generating, solving, and comparing Sudoku puzzles.
