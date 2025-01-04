@@ -82,9 +82,8 @@ This repository contains a Sudoku solver and generator project written in Python
 
 - **Future Enhancements**:
   - **Enhance `GUI.py`**: Plans are underway to improve the graphical user interface for a better user experience. This includes more intuitive controls, enhanced visualization of solving steps, and additional features like puzzle saving/loading.
-  - **Optimize Puzzle Generation**: Working on optimizing the puzzle generation process to reduce the time taken, especially for larger grid sizes and higher difficulty levels.
   - **Implement Missing Algorithms**: Finalizing the implementation of all solver algorithms to ensure they function correctly and efficiently.
-  - **Expand Comparison Functionality**: Enhancing the `compare_algorithms` function to include more detailed statistics, graphical representations of performance metrics, and support for additional algorithms in the future.
+
 
 
 
