@@ -1,11 +1,12 @@
 # Unity 3D Platformer Game
 
 **Live Demo:** [Play Now](https://play.unity.com/en/games/3e8a59e1-b850-43c2-9c11-6f7080a28bb8/webgl-builds)
+**Known Issue:** The jump mechanic needs improvement; the jump height is currently lower than intended and will be increased in upcoming updates.
 
 ## Overview
 
 This is a 3D platformer developed in Unity where the player must navigate through challenging levels, avoid traps, and reach the final line. The game features dynamic movement and engaging mechanics to keep you on your toes!
-**Known Issue:** The jump mechanic needs improvement; the jump height is currently lower than intended and will be increased in upcoming updates.
+
 
 ## How to Play
 
