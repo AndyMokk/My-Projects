@@ -9,7 +9,7 @@ This is a 3D platformer developed in Unity where the player must navigate throug
 ## How to Play
 
 - **Controls:**  
-  - **Movement:** Use `W`, `A`, `S`, `D` keys to move.
+  - **Movement:** Use `W`, `A`, `S`, `D` keys and mouse to move.
   - **Jump:** Press the `Space-bar` to jump.
   - **Camera Control:** Use your mouse to control the camera and view the environment.
 
