@@ -5,6 +5,7 @@
 ## Overview
 
 This is a 3D platformer developed in Unity where the player must navigate through challenging levels, avoid traps, and reach the final line. The game features dynamic movement and engaging mechanics to keep you on your toes!
+**Known Issue:** The jump mechanic needs improvement; the jump height is currently lower than intended and will be increased in upcoming updates.
 
 ## How to Play
 
@@ -21,11 +22,6 @@ This is a 3D platformer developed in Unity where the player must navigate throug
 
 - **Version:** 1.0.0  
 - **Release Date:** 12/2/2025  
-- **Changelog:**
-  - Initial release featuring core gameplay mechanics.
-  - Basic level design with a focus on 3D platforming.
-  - WASD movement, space-bar jumping, and mouse-driven camera control.
-  - **Known Issue:** The jump mechanic needs improvement; the jump height is currently lower than intended and will be increased in upcoming updates.
 
 ## Getting Started
 
