@@ -1,5 +1,5 @@
 # Sudoku Solver and Generator with Multiple Algorithms
-**Latest Updated on 28/09/2024**
+**Latest Updated on 28/12/2024**
 
 This repository contains a Sudoku solver and generator project written in Python. The codebase explores multiple algorithms—both traditional and AI-inspired—for generating and solving Sudoku puzzles of varying sizes (4×4, 9×9, 16×16). It also provides a GUI for interactive usage.
 
